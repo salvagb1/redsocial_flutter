@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="Grupo_2" data-name="Grupo 2" transform="translate(-337 -57)">
+    <rect id="Rectángulo_10" data-name="Rectángulo 10" width="30" height="30" transform="translate(337 57)" fill="none"/>
+    <g id="Icon_ionic-ios-notifications" data-name="Icon ionic-ios-notifications" transform="translate(333.246 53.07)">
+      <path id="Trazado_393" data-name="Trazado 393" d="M17.465,31.482c1.846,0,2.856-1.306,2.856-3.146H14.6C14.6,30.176,15.613,31.482,17.465,31.482Z" transform="translate(1.271 2.448)" fill="#fff"/>
+      <path id="Trazado_394" data-name="Trazado 394" d="M30.443,27.162c-1.155-1.592-3.427-2.525-3.427-9.652,0-7.315-3.089-10.256-5.968-10.961-.27-.071-.465-.165-.465-.463V5.859a1.832,1.832,0,1,0-3.659,0v.227c0,.29-.195.392-.465.463-2.887.714-5.968,3.646-5.968,10.961,0,7.127-2.272,8.052-3.427,9.652a1.562,1.562,0,0,0,1.192,2.493h21A1.563,1.563,0,0,0,30.443,27.162Z" transform="translate(0 0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
